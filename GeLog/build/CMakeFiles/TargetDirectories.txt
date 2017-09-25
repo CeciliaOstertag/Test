@@ -1,0 +1,4 @@
+/net/cremi/costerta/espaces/travail/GeLog/build/CMakeFiles/edit_cache.dir
+/net/cremi/costerta/espaces/travail/GeLog/build/CMakeFiles/rebuild_cache.dir
+/net/cremi/costerta/espaces/travail/GeLog/build/CMakeFiles/GUISimple.dir
+/net/cremi/costerta/espaces/travail/GeLog/build/CMakeFiles/CourbeCarre.dir
