@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/GUISimple.dir/gui_simple.cpp.o  -o GUISimple  -L/net/cremi/costerta/espaces/travail/GeLog/qcustomplot/sharedlib/compilation -Wl,-rpath,/net/cremi/costerta/espaces/travail/GeLog/qcustomplot/sharedlib/compilation -rdynamic -lQtGui -lQtCore 
